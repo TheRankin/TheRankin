@@ -39,4 +39,5 @@
 ![GoogleAnalytics](https://img.shields.io/badge/GoogleAnalytics-E37400?style=for-the-badge&logo=GoogleAnalytics&logoColor=white)
 ![CPanel](https://img.shields.io/badge/CPanel-FF6C2C?style=for-the-badge&logo=CPanel&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRankin&hide=stars,prs&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Since am working for companies, my github commits drop this last years -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRankin&hide=stars,prs&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
